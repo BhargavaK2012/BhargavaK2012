@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @BhargavaK2012
+- 👋 Hi, I’m @Bhargava K
+- I am Full Stack developer
+- I am a very enthusiastic person and dig deep into whatever i do
